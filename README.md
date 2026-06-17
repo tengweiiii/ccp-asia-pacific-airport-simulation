@@ -1,5 +1,5 @@
 # Asia Pacific Airport Simulation
-<img width="773" height="581" alt="image" src="https://github.com/user-attachments/assets/a1c156aa-c96b-4484-ac66-5426240109dc" />
+<img width="773" height="581" alt="image" style="align-items: center;" src="https://github.com/user-attachments/assets/a1c156aa-c96b-4484-ac66-5426240109dc" />
 
 ## Overview
 
